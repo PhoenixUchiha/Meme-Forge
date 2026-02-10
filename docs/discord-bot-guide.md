@@ -6,7 +6,7 @@ This guide will walk you through adding MemeForge to a `discord.js` bot in under
 
 - Node.js installed
 - A Discord bot project set up with `discord.js`
-- `memeforge` installed: `npm install memeforge`
+- `memeforge` installed: `npm install @imphoenix2k3/memeforge`
 
 ---
 
