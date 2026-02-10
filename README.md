@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="./docs/logo.png" width="250" alt="MemeForge Logo">
-</p>
 
 # MemeForge 🚀
 
