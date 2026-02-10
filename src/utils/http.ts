@@ -1,6 +1,6 @@
 import axios, { AxiosInstance, AxiosRequestConfig } from 'axios';
 
-const DEFAULT_USER_AGENT = 'MemeForge/1.0.0 (https://github.com/niket-dutta/memeforge)';
+const DEFAULT_USER_AGENT = 'MemeForge/1.0.0 (https://github.com/PhoenixUchiha/Meme-Forge)';
 
 export class HttpClient {
     private client: AxiosInstance;

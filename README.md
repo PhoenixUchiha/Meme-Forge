@@ -114,10 +114,10 @@ Need detailed help? Check out our deep-dive guides:
 
 Running into issues? Don't worry, we've got your back!
 
-- 🐛 **Found a bug?** Open an [Issue](https://github.com/niket-dutta/memeforge/issues).
+- 🐛 **Found a bug?** Open an [Issue](https://github.com/PhoenixUchiha/Meme-Forge/issues).
 - 💬 **Need help or want to chat?** [Join our Discord Server](https://discord.gg/your-invite-link).
 - 🛠️ **Error in docs?** Pull requests are always welcome!
 
 ## 📜 License
 
-MIT © [Antigravity](https://github.com/niket-dutta/memeforge)
+MIT © [PhoenixUchiha](https://github.com/PhoenixUchiha/Meme-Forge)
