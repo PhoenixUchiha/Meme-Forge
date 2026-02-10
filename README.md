@@ -27,7 +27,7 @@ MemeForge is not just another Reddit fetcher. It's a complete **meme orchestrati
 ## �️ Installation
 
 ```bash
-npm install memeforge
+npm install @imphoenix2k3/memeforge
 ```
 
 ## � Quick Start
